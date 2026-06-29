@@ -1,0 +1,6 @@
+[submodule "mooncake"]
+	path = mooncake
+	url = https://github.com/kvcache-ai/Mooncake.git
+[submodule "sglang"]
+	path = sglang
+	url = https://github.com/sgl-project/sglang.git
